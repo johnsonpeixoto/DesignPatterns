@@ -1,5 +1,6 @@
 # Design Patterns in C#
 Estudos sobre Design Patterns utilizando a linguagem C#.
+Inspiração: [FelipeTD/DesignPatterns](https://github.com/FelipeTD/DesignPatterns/tree/main)
 
 ## Criacionais
 - Singleton
